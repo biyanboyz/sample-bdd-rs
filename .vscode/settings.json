@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+
+    "editorWarning.foreground": "#00000000"
+  },
+  "lldb.showDisassembly": "never",
+  "lldb.dereferencePointers": true
+}
